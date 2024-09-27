@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nishenec.github.io/sitemap.nishenec.gz
+Sitemap: https://nishenec.github.io/app/sitemap.nishenec.gz
+Sitemap: https://nishenec.github.io/assets/sitemap.nishenec.gz
+Sitemap: https://nishenec.github.io/css/sitemap.nishenec.gz
+Sitemap: https://nishenec.github.io/data/sitemap.nishenec.gz
+Sitemap: https://nishenec.github.io/includes/sitemap.nishenec.gz
+Sitemap: https://nishenec.github.io/item/sitemap.nishenec.gz
+Sitemap: https://nishenec.github.io/src/sitemap.nishenec.gz
